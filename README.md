@@ -1,10 +1,10 @@
-# 🩺 Diabetes Prediction System
+#  Diabetes Prediction System
 
 A machine learning–based classification system that predicts the likelihood of diabetes using medical and lifestyle attributes. This project demonstrates a complete ML pipeline including data preprocessing, feature engineering, model training, evaluation, and result interpretation.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Binary classification (Diabetes: Yes / No)
 - Data cleaning and preprocessing
@@ -15,7 +15,7 @@ A machine learning–based classification system that predicts the likelihood of
 
 ---
 
-## 🧠 Machine Learning Models Used
+##  Machine Learning Models Used
 
 - Logistic Regression
 - Decision Tree Classifier
@@ -25,7 +25,7 @@ Each model is evaluated and compared to identify the most effective approach.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Language
 - Python 3.x
@@ -42,7 +42,7 @@ Each model is evaluated and compared to identify the most effective approach.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 DIABETES_PREDICTION/
@@ -54,7 +54,7 @@ DIABETES_PREDICTION/
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 ### Target Variable
 - diabetes  
@@ -73,7 +73,7 @@ DIABETES_PREDICTION/
 
 ---
 
-## ⚙️ Workflow Overview
+##  Workflow Overview
 
 1. Load and inspect the dataset
 2. Handle missing values and inconsistencies
@@ -86,7 +86,7 @@ DIABETES_PREDICTION/
 
 ---
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 
 - Accuracy
 - Precision
@@ -96,7 +96,7 @@ DIABETES_PREDICTION/
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
@@ -115,7 +115,7 @@ jupyter notebook classification_prac.ipynb
 
 ---
 
-## 📌 Results & Insights
+##  Results & Insights
 
 - Feature scaling improves performance
 - Random Forest performs best among tested models
@@ -123,7 +123,7 @@ jupyter notebook classification_prac.ipynb
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 - Limited dataset size
 - No hyperparameter tuning
@@ -131,7 +131,7 @@ jupyter notebook classification_prac.ipynb
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Hyperparameter tuning (GridSearchCV)
 - SMOTE for class imbalance
@@ -140,12 +140,12 @@ jupyter notebook classification_prac.ipynb
 
 ---
 
-## 📄 License
+##  License
 
 Educational use only.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 GitHub: https://github.com/vamsiche
